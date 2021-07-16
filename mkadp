@@ -70,8 +70,8 @@ pm enable 'com.google.android.gsf/.update.SystemUpdatePanoActivity'
 pm enable 'com.google.android.gsf/.update.SystemUpdateService$Receiver'
 pm enable 'com.google.android.gsf/.update.SystemUpdateService$SecretCodeReceiver'
 
-$BB cp -rf /data/adb/modules/butterlimitsforop8poos11uni/system/etc/unbl/disable /data/adb/modules/butterlimitsforop8poos11uni/disable
-$BB cp -rf /data/adb/modules/butterlimitsforop8poos11uni/system/etc/unbl/remove /data/adb/modules/butterlimitsforop8poos11uni/remove
+$BB cp -rf /data/adb/modules/butterlimitsforop9poos11uni/system/etc/unbl/disable /data/adb/modules/butterlimitsforop9poos11uni/disable
+$BB cp -rf /data/adb/modules/butterlimitsforop9poos11uni/system/etc/unbl/remove /data/adb/modules/butterlimitsforop9poos11uni/remove
 
 sleep 1
 
